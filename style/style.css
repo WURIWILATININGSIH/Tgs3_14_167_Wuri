@@ -1,0 +1,123 @@
+body{
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    color: azure;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color:rgb(46, 46, 46);
+    padding: 20px;
+}
+
+table{
+    margin: 100px;
+    background-color: grey;
+    color: white;
+}
+
+p{
+    text-align: center;
+}
+
+nav li{
+    font-family: sans-serif;
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+nav{
+    background-color: grey;
+    padding: 3px;
+    margin: 0;
+}
+
+nav a{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+    padding: 20px;
+    padding-top: 1px;
+    color: white;
+    background-color: rgb(46, 46, 46);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.foto-profil{
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.kotak-menu{
+    padding: 7px;
+    transition: background-color .25s ease-in;
+}
+
+.kotak-menu:hover{
+    background-color: rgb(75, 75, 75);
+}
+
+.instagram-picture{
+    width: 40px;
+}
+
+.teks-judul1{
+    text-align: center;
+    color: white;
+    background-color: rgb(46, 46, 46);
+    margin: 0;
+    padding: 0;
+    padding-top: 13px;
+    padding-bottom: 10px;
+}
+
+
+.teks-judul2{
+    text-align: center;
+    color: white;
+    background-color: rgb(46, 46, 46);
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 13px;
+    margin-bottom: 51px;
+}
+
+.teks-judul3{
+    text-align: center;
+    color: white;
+    background-color: rgb(46, 46, 46);
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.teks-judul4{
+    text-align: center;
+    color: white;
+    background-color: rgb(46, 46, 46);
+    margin: 0;
+    margin-top: -18px;
+    padding: 10px;
+}
+
+.teks-judul5{
+    text-align: center;
+    color: white;
+    background-color: rgb(46, 46, 46);
+    margin: 0;
+    margin-top: -18px;
+    padding: 10px;
+}
